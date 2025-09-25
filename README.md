@@ -40,15 +40,15 @@ cd washops360
 
 Project Structure
 washops360/
-│-- app.py
-│-- models.py
-│-- views/
-│-- webhooks/
-│-- templates/
-│-- static/
-│-- scripts/
-│-- requirements.txt
-│-- README.md
+ app.py
+ models.py
+ views/
+ webhooks/
+ templates/
+ static/
+ scripts/
+ requirements.txt
+ README.md
 
 Why This Project
 

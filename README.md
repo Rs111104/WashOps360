@@ -1,8 +1,8 @@
-WashOps360
+**WashOps360**
 
 Pickup & Delivery Garment Care — simple, reliable, and efficient.
 
-Overview
+**Overview**
 
 WashOps360 is a prototype service that simplifies the dry-cleaning experience.
 Customers can schedule pickups, track the cleaning process, and get timely delivery updates.
@@ -10,7 +10,7 @@ Admins can manage orders, update statuses, and send automated notifications.
 
 This project demonstrates product thinking, full-stack development, and integration with real-world APIs.
 
-Features
+**Features**
 
 📦 Order placement with pickup scheduling
 
@@ -22,8 +22,7 @@ Features
 
 🗃️ Lightweight database (SQLite) for easy local setup
 
-Tech Stack
-
+**Tech Stack**
 Backend: Python (Flask)
 
 Database: SQLite (easily portable to PostgreSQL)
@@ -32,13 +31,13 @@ Messaging: Twilio (WhatsApp/SMS integration)
 
 Tools: ngrok (for local webhook testing)
 
-Quickstart
+**Quickstart**
 
 Clone this repository:
 git clone https://github.com/Rs111104/washops360.git
 cd washops360
 
-Project Structure
+**Project Structure**
 washops360/
  app.py
  models.py
@@ -50,7 +49,7 @@ washops360/
  requirements.txt
  README.md
 
-Why This Project
+**Why This Project**
 
 Shows ability to design and implement a full product workflow
 
